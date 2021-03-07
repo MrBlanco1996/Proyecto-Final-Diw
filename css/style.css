@@ -1,0 +1,62 @@
+.logo{
+    width: 200px;
+    height: 125px;
+    min-width: 200px;
+}
+html{
+    margin:0 auto;
+}
+header{
+    background-image: url(../img/Cabecera.jpg);
+    height: 70vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* background-color: gray; */
+   
+    color: white;
+    
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav-link{
+    
+    width: 150px;
+    margin-right: 2em;
+}
+.navegacion{
+    background-color: rgba(121, 124, 122, 0.9);
+    font-weight: 900;
+    position: fixed;
+  top: 0;
+  width: 100%
+  
+}
+.lenguajes{
+    margin: 0 auto;
+}
+.card-img-top{
+    margin: 0 auto;
+    
+}
+
+/* .card{
+    
+    width: 350px;
+} */
+.card:hover{
+    top: -7px;
+    right: -7px;
+    box-shadow: 10px 10px 10px #666;
+    
+}
+/* .tecnologia{
+    height: 700px;
+} */
+.tec{
+    height: 500px;
+}
+/* .tec img{
+  width: 50%;
+  height: 50%;
+} */
